@@ -1,0 +1,111 @@
+.welcome{
+    margin-top:100px;
+    padding-left:650px;
+    line-height:2px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.we{
+    font-size:40px;
+    
+}
+.form{
+    padding-left:650px;
+    margin-top:60px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:large;
+}
+.one{
+    margin-bottom:8px;
+    line-height:35px;
+}
+.two{
+    line-height:35px;
+    margin-bottom:12x;
+}
+#email{
+    border-radius: 8px;
+    height:34px;
+    width:400px;
+    background-color:white;
+    border:none;
+}
+.last{
+    padding-left:650px;
+    font-size:21px;
+}
+.small{
+    background-color:white;
+    height:20px;
+    width:20px;
+}
+.remember{
+    display:inline-block;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.forgot{
+    display:inline-block;
+    margin-left:102px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.sign{
+    margin-top:30px;
+    margin-left:650px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.signin{
+    background-color:red;
+    color:white;
+    width:400px;
+    height:50px;
+    border:none;
+    margin-bottom:20px;
+}
+.options{
+    margin-left:650px;
+    
+}
+.more{
+    padding-left:130px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.icons{
+    display:flex;
+    justify-content:space-between;
+    width:400px;
+    
+}
+.fa-facebook{
+    color:blue;
+    
+}
+.fa-google{
+    
+}
+.fa-twitter{
+    
+    color:white;
+    background-color:blue;
+    border:3px solid grey;
+    
+    border-radius:50%;
+}
+.fa-instagram{
+    
+    background-image:linear-gradient(150deg,#f9ce34,#ee2a7b,#6228d7);
+    
+}
+.footer{
+    margin-left:650px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top:60px;
+}
+a{
+    text-decoration:none;
+    color:black;
+    font-size:large
+}
+body{
+    background-image:url("perfect.jpg");
+    background-size:cover;
+}
